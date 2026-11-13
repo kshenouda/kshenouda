@@ -10,6 +10,32 @@ Power BI · DAX · SQL · Snowflake · Matillion · Python · Streamlit
 
 ---
 
+## What I do
+
+- Build multi-page Power BI reports for different audiences (Commercial, Supply Chain, Finance)
+- Ingest, validate, and warehouse data from APIs, cloud storage, JDBC sources, and flat files
+- Ship internal data apps in Streamlit
+- Explain the work to both engineers and executives
+
+## Client work (anonymized)
+
+| Sector | What I built | Stack |
+|---|---|---|
+| CPG (dairy) | Consolidated Power BI reporting on a star schema, with a time intelligence calculation group and insight cards written as Fact, So What, Leadership Implication | Power BI, DAX |
+| Healthcare (physical therapy) | Pipeline migration and orchestration for the Snowflake objects behind internal Streamlit apps | Snowflake, Matillion, Streamlit |
+| Public sector and retail | Ingestion, validation, and reporting pipelines | Matillion, SQL, Power BI |
+
+## Stack
+
+**BI:** Power BI, DAX, Metabase
+**Data:** SQL, Snowflake, Matillion, MySQL
+**Python:** Streamlit, pandas, Matplot, Seaborn
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/kshenouda/)
+
+
 <!--
 ## Hi there 👋
 -->

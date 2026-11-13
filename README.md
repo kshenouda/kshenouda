@@ -1,6 +1,6 @@
 # Kiro | Data Consultant
 
-** I turn messy data into dashboards and applications that stakeholders use without a walkthrough**
+**I turn messy data into dashboards and applications that stakeholders use without a walkthrough**
 
 Power BI · DAX · SQL · Snowflake · Matillion · Python · Streamlit
 

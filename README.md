@@ -21,13 +21,14 @@ Power BI · DAX · SQL · Snowflake · Matillion · Python · Streamlit
 
 | Sector | What I built | Stack |
 |---|---|---|
-| CPG | Consolidated Power BI reporting on a star schema, with a time intelligence calculation group and insight cards written as Fact, So What, Leadership Implication | Power BI, DAX |
-| Public sector and retail | Ingestion, validation, and reporting pipelines | Matillion, Snowflake, Streamlit, SQL, Tableau, Power BI |
-| Healthcare (physical therapy) | Pipeline migration and orchestration for the Snowflake objects behind internal Streamlit apps | Matillion, Snowflake, Streamlit |
+| CPG | Consolidated multiple Excel reports into one comprehensive Power BI report that analyzed client's main metric across different dimensions, with a time intelligence calculation group and insight cards | Power BI, DAX |
+| Public sector | Used Matillion to build data pipelines to ingest source data to Snowflake, clean, transform, and provision data for reporting, and migrated multiple Tableau reports to Power BI | Matillion, Snowflake, SQL, Tableau, Power BI |
+| Retail | Built new Power BI reports and models and refined existing ones, created Streamlit application to help self-service analytics | Matillion, Snowflake, SQL, Streamlit, Power BI, Fabric |
+| Healthcare (physical therapy) | Built data pipelines to consolidate and validate data to assist client's third party vendor validate patient insurance information for next year | Matillion, Snowflake, Streamlit |
 
 ## Stack
 
-**BI:** Power BI, DAX, Metabase
+**BI:** Power BI, DAX, Databricks
 **Data:** SQL, Snowflake, Matillion, MySQL
 **Python:** Streamlit, pandas, Matplot, Seaborn
 
